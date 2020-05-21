@@ -1,2 +1,0 @@
-def  saludo ():
-    imprimir (" Hola * 10 )
